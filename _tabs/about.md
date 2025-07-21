@@ -1,9 +1,10 @@
 ---
-layout: default
-title: Welcome
+title: About
+icon: fas fa-user
+order: 1
 ---
 
-# Hello, I’m [René Koraschnigg] 👋
+# Hello, I’m René Koraschnigg 👋
 
 I’m a passionate **QA Engineer** specializing in **automation testing** and **CI/CD integration**. With strong analytical skills and a commitment to delivering high-quality software, I help teams build reliable and efficient products.
 
@@ -19,9 +20,16 @@ I’m a passionate **QA Engineer** specializing in **automation testing** and **
 
 ---
 
-## Skills & Tools
+## 👨‍💻 Skills
 
-Python | pytest | Selenium | CI/CD pipelines | GitHub Actions | Docker | Test planning & execution |Linux environments and scripting  
+- **Languages:** Python, Bash, SQL, Go  
+- **Frameworks:** Pytest, Selenium, Robot Framework  
+- **DevOps:** Docker, GitHub Actions, Kubernetes,
+- **QA Tools:** Postman, Wireshark, ..
+
+## 📌 Experience
+
+QA Engineer with years of experience ensuring product quality in agile teams across backend and frontend systems.
 
 ---
 
