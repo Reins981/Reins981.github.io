@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "René Koraschnigg"
+title: "Reins981"
 ---
 
 > *“Quality is never an accident; it is always the result of intelligent effort.”*  
