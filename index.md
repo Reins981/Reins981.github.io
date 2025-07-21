@@ -21,11 +21,7 @@ I’m a passionate **QA Engineer** specializing in **automation testing** and **
 
 ## Skills & Tools
 
-- Python | pytest | Selenium  
-- CI/CD pipelines | GitHub Actions
-- Docker
-- Test planning & execution  
-- Linux environments and scripting  
+Python | pytest | Selenium | CI/CD pipelines | GitHub Actions | Docker | Test planning & execution |Linux environments and scripting  
 
 ---
 
