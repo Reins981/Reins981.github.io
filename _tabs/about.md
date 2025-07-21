@@ -40,6 +40,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rené-kor
 (or send me a message here on GitHub).
 
 ---
-
-> *“Quality is never an accident; it is always the result of intelligent effort.”* — John Ruskin
-
