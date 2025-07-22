@@ -4,8 +4,6 @@ icon: fas fa-user
 order: 1
 ---
 
-# Hello, 👋
-
 I’m a passionate **QA Engineer** specializing in **automation testing** and **CI/CD integration**. With strong analytical skills and a commitment to delivering high-quality software, I help teams build reliable and efficient products.
 
 ---
